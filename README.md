@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # platzi-curso-estadistica-descriptiva-2021
 
 Este repositorio contiene los notebooks del curso en Platzi [Curso de matemáticas para data science: estadística descriptiva](https://platzi.com/cursos/estadistica-descriptiva/)
@@ -10,3 +11,6 @@ Puedes utilizar Deepnote para trabajar interactivamente con los notebooks siguie
 
 * [Outlier detection for skewed data](https://wis.kuleuven.be/stat/robust/papers/2008/outlierdetectionskeweddata-revision.pdf)
 * [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
+=======
+# descriptive-statistics
+>>>>>>> 0246e6cfb1059871a7d989280a3dfe3047acdb31
